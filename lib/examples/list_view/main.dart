@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/list_view/contact_page.dart';
+import 'package:flutter_practice_programs_list/examples/list_view/contact_page.dart';
 
 Widget main() {
   return MaterialApp(

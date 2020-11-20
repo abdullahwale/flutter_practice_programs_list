@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/unit_testing/helpers.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/helpers.dart';
 
 class SignInScreen extends StatefulWidget {
   @override

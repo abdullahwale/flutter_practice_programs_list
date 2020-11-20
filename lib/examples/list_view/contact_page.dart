@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/list_view/contactlist/contact_list.dart';
-import 'package:widgets_demo/examples/list_view/contactlist/modal/contact.dart';
+import 'package:flutter_practice_programs_list/examples/list_view/contactlist/contact_list.dart';
+import 'package:flutter_practice_programs_list/examples/list_view/contactlist/modal/contact.dart';
 
 class ContactPage extends StatelessWidget {
   _buildContactList() {

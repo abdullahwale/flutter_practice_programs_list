@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/unit_testing/components/place_info_card.dart';
-import 'package:widgets_demo/examples/unit_testing/model/location.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/components/place_info_card.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/model/location.dart';
 
 import '../helpers.dart';
 

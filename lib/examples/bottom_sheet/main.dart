@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/bottom_sheet/home.dart';
+import 'package:flutter_practice_programs_list/examples/bottom_sheet/home.dart';
 
 // void main() {
 //   runApp(MyApp());
@@ -18,4 +18,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

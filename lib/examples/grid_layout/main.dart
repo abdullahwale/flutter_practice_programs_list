@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/grid_layout/gridview.dart';
+import 'package:flutter_practice_programs_list/examples/grid_layout/gridview.dart';
 
 void main() => runApp(MyApp());
 

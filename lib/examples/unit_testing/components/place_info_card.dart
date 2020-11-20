@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/unit_testing/model/location.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/model/location.dart';
 
 class PlaceInfo extends StatelessWidget {
   final Location data;

@@ -8,8 +8,8 @@ import 'package:flutter_practice_programs_list/examples/enabling_splash_screen/m
     as splash;
 import 'package:flutter_practice_programs_list/examples/expense_planner/main.dart'
     as expense;
-import 'package:flutter_practice_programs_list/examples/google_signin/main.dart'
-    as google_signin;
+//import 'package:flutter_practice_programs_list/examples/google_signin/main.dart'
+//    as google_signin;
 import 'package:flutter_practice_programs_list/examples/grid_layout/main.dart'
     as grid;
 import 'package:flutter_practice_programs_list/examples/handling_routes/screens//home.dart'
@@ -52,8 +52,8 @@ import 'package:flutter_practice_programs_list/examples/custom_fonts/main.dart'
 import 'package:flutter_practice_programs_list/examples/edit_text/main.dart'
     as edit_text;
 
-import 'package:flutter_practice_programs_list/examples/firebase/main.dart'
-    as firebase;
+//import 'package:flutter_practice_programs_list/examples/firebase/main.dart'
+//    as firebase;
 
 import 'package:flutter_practice_programs_list/examples/gradient/main.dart'
     as gradient;
@@ -70,7 +70,7 @@ import 'package:flutter_practice_programs_list/examples/stepper/main.dart'
 import 'package:flutter_practice_programs_list/examples/tabs/main.dart' as tabs;
 import 'package:flutter_practice_programs_list/examples/theme/main.dart'
     as theme;
-import 'package:flutter_practice_programs_list/examples/pdf/main.dart' as pdf;
+//import 'package:flutter_practice_programs_list/examples/pdf/main.dart' as pdf;
 // import 'pac' as alias;
 
 void main() {
@@ -229,11 +229,10 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: FlatButton(
                           child: Text("Google Signin"),
                           onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (context) => google_signin.App()),
-                            );
+                            // Navigator.push(
+                            //   context,
+                            //   MaterialPageRoute(builder: (context) => google_signin.App()),
+                            // );
                             // Navigator.push(context, bottom_sheet.main());
                           },
                         ),
@@ -546,11 +545,11 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: FlatButton(
                           child: Text("Firebase DB"),
                           onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (context) => firebase.MyApp()),
-                            );
+                            // Navigator.push(
+                            //   context,
+                            //   MaterialPageRoute(
+                            //       builder: (context) => firebase.MyApp()),
+                            // );
                             // Navigator.push(context, bottom_sheet.main());
                           },
                         ),
@@ -699,11 +698,11 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: FlatButton(
                           child: Text("PDF Viewer"),
                           onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (context) => pdf.MyApp()),
-                            );
+                            // Navigator.push(
+                            //   context,
+                            //   MaterialPageRoute(
+                            //       builder: (context) => pdf.MyApp()),
+                            // );
                             // Navigator.push(context, bottom_sheet.main());
                           },
                         ),

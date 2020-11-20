@@ -29,12 +29,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
   intl: ^0.15.8
-  google_sign_in: any
-  firebase_auth: any
-  english_words: any
-  shared_preferences: any
-  firebase_database: any
-  advance_pdf_viewer: any
+  english_words:
+  shared_preferences:
+  advance_pdf_viewer:
 
 
 dev_dependencies:

@@ -1,5 +1,5 @@
-import 'package:widgets_demo/examples/unit_testing/model/lat_long.dart';
-import 'package:widgets_demo/examples/unit_testing/model/location.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/model/lat_long.dart';
+import 'package:flutter_practice_programs_list/examples/unit_testing/model/location.dart';
 
 class PlacesAPI {
   final List<Location> _locations = [

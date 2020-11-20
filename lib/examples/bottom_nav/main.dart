@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:widgets_demo/examples/bottom_nav/tabs/first.dart';
-import 'package:widgets_demo/examples/bottom_nav/tabs/second.dart';
-import 'package:widgets_demo/examples/bottom_nav/tabs/third.dart';
+import 'package:flutter_practice_programs_list/examples/bottom_nav/tabs/first.dart';
+import 'package:flutter_practice_programs_list/examples/bottom_nav/tabs/second.dart';
+import 'package:flutter_practice_programs_list/examples/bottom_nav/tabs/third.dart';
 
 void main() {
   runApp(MaterialApp(
